@@ -11,15 +11,10 @@ An AI to play the Rock Paper Scissors game
 ## Set up instructions
 1. Clone the repo.
 ```sh
-$ https://github.com/Kakoytobarista/RockPaperScissors.git
+$ https://github.com/Kakoytobarista/Calculator.git
 $ cd Calculator
-```
-
-2. Install the dependencies
-```sh
-$ pip install -r requirements.txt
 ````
 
-3. Play the game with your computer!
+2. Play the game with your computer!
 ```sh
 $ python3 UIcalculator.py run
